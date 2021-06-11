@@ -1,0 +1,19 @@
+land_site del -1
+
+land_site set -35.36326298 149.16523883 10 603.8 1 7 3
+
+land_site set -35.36631086 149.15749532 10 603.5 1 7 3
+land 1
+
+wait 1
+
+alt 10
+
+wait 1
+
+wp load /home/mc/Documents/demo_wp.txt
+wp run
+
+wait 1
+
+land 2
