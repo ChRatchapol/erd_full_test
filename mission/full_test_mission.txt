@@ -1,4 +1,4 @@
-land_site del -1
+//land_site del -1
 
 land_site set -35.36326298 149.16523883 10 603.8 1 7 3
 
